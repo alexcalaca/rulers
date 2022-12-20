@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "rulers"
   spec.version = Rulers::VERSION
   spec.authors = ["AC Alexandre Calaça"]
-  spec.email = ["alexcalaca@gmail.com"]
+  spec.email = ["alexcalaca@users.noreply.github.com"]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
   spec.description = "TODO: Write a longer description or delete this line."
