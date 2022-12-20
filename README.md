@@ -3,6 +3,14 @@ It is a complete `Ruby MVC framework` from an empty directory. This framework is
 
 Besides, it allow us to get the gut-level understanding that only a framework builder has.
 
+# The book: "Rebuilding Rails" by Noah Gibbs
+`Ruby on Rails` is known for being “magical”. A lot of that magic makes sense after you’ve built with those Ruby features.
+
+Knowing the deepest levels of any piece of software lets you master it. It’s a special kind of  competence you can’t fake. You have to know it so well you could build it. What if you did build t? Wouldn’t that be worth it?
+
+Each chapter is about building a system in a `Rails-like framework`, which we’ll call Rulers (like, Ruby on Rulers). Rulers is much simpler than Rails. But once you build the simple version, you’ll know what the complicated version does and a lot of how it works.
+
+To be an expert, learn the fundamentals. Then you can pick up not just Rails, but `any framework you want`. Rebuilding Rails will show you the tricks and where to start reading the source code.
 
 # Rulers
 
