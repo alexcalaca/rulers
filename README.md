@@ -1,3 +1,9 @@
+# The Rulers Framework Project
+It is a complete `Ruby MVC framework` from an empty directory. This framework is structured like Rails, using the same architecture and the same metaprogramming tricks. By building it, You'll learn the magic behind Rails.
+
+Besides, it allow us to get the gut-level understanding that only a framework builder has.
+
+
 # Rulers
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rulers`. To experiment with that code, run `bin/console` for an interactive prompt.
