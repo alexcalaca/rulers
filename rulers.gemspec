@@ -5,7 +5,7 @@ require_relative "lib/rulers/version"
 Gem::Specification.new do |spec|
   spec.name = "rulers"
   spec.version = Rulers::VERSION
-  spec.authors = ["Alexandre Calaça"]
+  spec.authors = ["AC Alexandre Calaça"]
   spec.email = ["alexcalaca@gmail.com"]
 
   spec.summary = "TODO: Write a short summary, because RubyGems requires one."
