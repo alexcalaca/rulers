@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["alexcalaca@users.noreply.github.com"]
 
   spec.summary = "A Rails-like framework built from an empty directory, using the same Ruby features and structures that make Rails so interesting."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.description = "The Rulers framework from the book 'Rebuilding Rails' by Noah Gibbs. Rulers is a Rack-based Web Framework that looks a lot like Ruby on Rails. It is a Rails-like framework built from an empty directory, using the same Ruby features and structures that make Rails so interesting."
   spec.homepage = "TODO: Put your gem's website or public repo URL here."
   spec.required_ruby_version = ">= 2.6.0"
 
