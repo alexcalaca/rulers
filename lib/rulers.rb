@@ -11,7 +11,7 @@ module Rulers
       controller = klass.new(env)
       text = controller.send(act)    
 
-      [200, {'Content-Type' => 'text/html'}, ["Hello from Rulers!"]]
+      [200, {'Content-Type' => 'text/html'}, [text]]
     end
   end
 
