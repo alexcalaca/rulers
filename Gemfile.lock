@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    rulers (1.12.22)
+    rulers (2.12.22)
       minitest
       rack (~> 2.2)
       rack-test
