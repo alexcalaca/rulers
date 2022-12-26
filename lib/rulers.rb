@@ -7,8 +7,8 @@ require_relative "rulers/routing"
 module Rulers
   class Application
     def call(env)
-      klass, act = get_controller_action(env)
-      controller = Klass.new(env)
+      klass, act = get_controller_and_action(env)
+      controller = klass.new(env)
       text = controller.send(act)    
 
       [200, {'Content-Type' => 'text/html'}, ["Hello from Rulers!"]]
