@@ -2,7 +2,7 @@
 
 require_relative "rulers/version"
 require_relative "rulers/array"
-require_relative "rulers/routing"
+require "rulers/routing"
 
 module Rulers
   class Application
