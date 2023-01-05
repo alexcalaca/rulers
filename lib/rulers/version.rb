@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
 module Rulers
-  VERSION = "2.12.22"
+  VERSION = "3.01.23"
 end
